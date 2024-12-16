@@ -1,5 +1,7 @@
 # Project Plan: LH-CDC [Vienam - 2025]
 
+![6b6e2424-e2dc-4301-b1cc-6766f0e9eda7](https://github.com/user-attachments/assets/39848ac0-a7eb-4fc7-913f-fab634801050)
+
 # Project Title: Advancing Autonomous Vehicle Systems and Safety Innovations for BFMC-2025
 
 ### **Team Members:**
